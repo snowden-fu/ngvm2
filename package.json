@@ -1,15 +1,25 @@
 {
   "name": "ngvm2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "bin": {
     "ngvm2": "./index.js"
   },
-  "description": "",
+  "description": "angular version manager, inspired by nvm, different from ngvm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "angular",
+    "cli-tool",
+    "dependency",
+    "dev-tool",
+    "version-manager"
+  ],
+  "author": {
+    "name": "Snowden Fu",
+    "email": "snowdenfu+npm@gmail.com",
+    "url": "https://github.com/fuzheng1998"
+  },
+  "license": "MIT"
 }
